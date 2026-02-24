@@ -42,8 +42,7 @@ Through this program, I gained hands-on experience in:
   - dbt with DuckDB & BigQuery
   - Testing, documentation, and deployment of analytics models
 
- **Data Platforms with Bruin** - tools that help you manage the entire data lifecycle from ingestion to analytics.
-   Bruin puts multiple tools under one platform:
+- **Data Platforms with Bruin** - tools that help you manage the entire data lifecycle from ingestion to analytics. Bruin puts multiple tools under one platform:
   - Data ingestion (extract from sources to your warehouse)
   - Data transformation (cleaning, modeling, aggregating)
   - Data orchestration (scheduling and dependency management)
