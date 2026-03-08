@@ -8,6 +8,7 @@ The course material can be found on GitHub here: [DataTalksClub/data-engineerin
 ---
 
 ## 📂 Project Structure
+
 Homework
 ├── 01_docker_terraform
 ├── 02_workflow_orchestration
@@ -39,16 +40,13 @@ Topics covered:
 ### 2️⃣ Workflow Orchestration
 **Folder:** `02_workflow_orchestration`
 
-This module introduces workflow orchestration tools used to manage data pipelines.
+This module introduces workflow orchestration with Kestra to manage data pipelines.
 
 Topics covered:
 - Scheduling pipelines
 - Task dependencies
 - Data pipeline orchestration
 - Monitoring pipeline execution
-
-Common tools:
-- Kestra
 
 ---
 
