@@ -9,6 +9,7 @@ The course material can be found on GitHub here: [DataTalksClub/data-engineerin
 
 ## 📂 Project Structure
 
+```
 Homework
 ├── 01_docker_terraform
 ├── 02_workflow_orchestration
@@ -18,7 +19,7 @@ Homework
 ├── 06-batch
 ├── 07-streaming
 └── workshop_Ingestion_with_dlt
-
+```
 ---
 
 ## 📚 Modules Overview
@@ -142,6 +143,7 @@ Some of the technologies used in this repository include:
 - SQL
 - Docker
 - Terraform
+- Kestra
 - dbt
 - Prefect / Airflow
 - Spark
